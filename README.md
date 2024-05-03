@@ -26,7 +26,8 @@ Run the BackendforChartsApplication.java
 # Configuration
 ### Application's configurations are located in the application.properties file, edit as you wish
 
-
+Tested the configuration with MariaDB.
+You need to create a database, and adjust the settings accordingly.
 
 ## API Endpoints
 ### Sections API
